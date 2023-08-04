@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper entitle "Enhancing Malware Detection for Android Apps: Detecting Fine-granularity Malicious Components" has been accepted to ASE'23.
