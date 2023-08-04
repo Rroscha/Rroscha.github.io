@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.chrisyttang.org/'>CATLAB</a>. A graduate student in CS. ShanghaiTech University, 393 Middle Huaxia Road, Pudong, Shanghai, China.
+subtitle: <a href='https://www.chrisyttang.org/'>CATLAB</a>. A graduate student in Computer Science. ShanghaiTech University, 393 Middle Huaxia Road, Pudong, Shanghai, China.
 
 profile:
   align: right
