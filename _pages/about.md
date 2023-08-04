@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: <a href='https://www.chrisyttang.org/'>CATLAB</a>. A graduate student in Computer Science. ShanghaiTech University, 393 Middle Huaxia Road, Pudong, Shanghai, China.
 
