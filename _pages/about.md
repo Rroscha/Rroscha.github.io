@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>SIST 1A 509</p>
+    <p>SIST 1A-509</p>
     <p>ShanghaiTech University, 393 Middle Huaxia Road, Pudong</p>
     <p>Shanghai, China</p>
 
