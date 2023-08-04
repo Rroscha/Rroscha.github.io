@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.chrisyttang.org/'>CATLAB</a>. ShanghaiTech University, 393 Middle Huaxia Road, Pudong, Shanghai, China.
 
 profile:
   align: right
@@ -19,8 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello, I’m Zhijie Liu. I’m now a graduate student studying in ShanghaiTech University, SIST SSC, under the supervision of Prof. <a href='https://www.chrisyttang.org/'>Yutian Tang</a>, Prof. <a href='https://sist.shanghaitech.edu.cn/zhanglf_en/main.htm'>Liangfeng Zhang</a> (and Prof. <a href='http://as3r-lab.com/'>Yuqi Chen</a>, in the laboratory room). I am a member in CATLAB (and AS3R LAB). My research interests include program analysis, LLMs, malware detection, fuzzing, etc.
