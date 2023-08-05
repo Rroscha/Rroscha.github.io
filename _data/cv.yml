@@ -5,12 +5,43 @@
       value: Zhijie Liu
     - name: Languages
       value: Chinese, English
+    - name: Email
+      value: rrocsha1793@gmail.com, liuzhj2022@shanghaitech.edu.cn
 
 - title: Education
   type: time_table
   contents:
-    - title: Master
+    - title: Master Degree
       institution: ShanghaiTech University, Shanghai, China
       year: 2022-2025
       description:
-        - In the major of CS.
+        - In the major of Computer Science.
+        - Research interests include Software Engineering, Program Analysis, Malware Detection, LLMs, etc.
+
+- title: Services
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Program Committee, International Conference on Software Engineering & Knowledge Engineering (SEKE)
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - Outstanding Thesis Award, Undergraduate Research Scholars
+        - Outstanding Graduate Award, Undergraduate Scholarships
+        - The Second Class Prize Winner, ASC22 Student Supercomputer Challenge
+    - year: 2021
+      items: 
+        - National Scholarship, Undergraduate Scholarships
+        - Meritorious Winner, 2021 Interdisciplinary Contest in Modeling
+        - The Second Class Prize Winner, ASC20-21 Student Supercomputer Challenge
+    - year: 2020
+      items: 
+        - National Scholarship, Undergraduate Scholarships
+    - year: 2019
+      items:
+        - Second Prize of Zhaoshang‑Road Scholarship, Undergraduate Scholarships
