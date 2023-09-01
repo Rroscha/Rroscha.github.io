@@ -8,6 +8,16 @@
     - name: Email
       value: rrocsha1793@gmail.com, liuzhj2022@shanghaitech.edu.cn
 
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Intern in Tencent Keen Lab
+      institution: Tencent, Shanghai, China
+      year: 2023-Current
+      description:
+        - 
+
+
 - title: Education
   type: time_table
   contents:
