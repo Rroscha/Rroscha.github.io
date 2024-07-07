@@ -64,3 +64,19 @@
     - year: 2019
       items:
         - Second Prize of Zhaoshang‑Road Scholarship, Undergraduate Scholarships
+
+
+- title: News Interview/Media Coverage
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - IEEE Spectrum "How Good Is ChatGPT at Coding, Really? Study finds that while AI can be great, it also struggles due to training limitations"
+
+
+- title: Copyright
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Big Data-based Mobile Application Malicious Component Detection System V1.0 (No. 2023SR0897296)
