@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Zhijie Liu. I’m now a graduate student studying in ShanghaiTech University, SIST SSC, under the supervision of Prof. <a href='https://www.chrisyttang.org/'>Yutian Tang</a>, Prof. <a href='https://sist.shanghaitech.edu.cn/zhanglf_en/main.htm'>Liangfeng Zhang</a> (and Prof. <a href='http://as3r-lab.com/'>Yuqi Chen</a>, in the laboratory room). I am a member in <a href='https://www.chrisyttang.org/'>CATLAB</a> (and <a href='http://as3r-lab.com/'>AS3R LAB</a>). My research interests include program analysis, LLMs, malware detection, fuzzing, etc.
+Hi, I’m Zhijie Liu. I’m now a graduate student studying in ShanghaiTech University, SIST SSC, under the supervision of Prof. <a href='https://www.chrisyttang.org/'>Yutian Tang</a>, Prof. <a href='https://sist.shanghaitech.edu.cn/zhanglf_en/main.htm'>Liangfeng Zhang</a> (and Prof. <a href='http://as3r-lab.com/'>Yuqi Chen</a>, in the laboratory room). I am a member in <a href='https://www.chrisyttang.org/'>CATLAB</a> (and <a href='http://as3r-lab.com/'>AS3R LAB</a>). My research interests include program and binary analysis, BCSA, LLMs, malware detection, fuzzing, threat intelligence, etc.
 
-Also, I am interning at Tencent Keen Lab, supervised under Tencent Security Researcher Sen Nie and Qiyi Tang. Specifically, I am working on binary analysis-related problems.
+Also, I am interning at Tencent Keen Lab, supervised under Tencent Security Researcher Sen Nie and Qiyi Tang. Specifically, I am working on BCSA-related researches.
