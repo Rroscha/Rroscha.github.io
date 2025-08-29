@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <a href='https://www.chrisyttang.org/'>CATLAB</a>. A Ph.D. student in Computer Science. The Ohio State University, Columbus, OH, USA.
+subtitle: <a href='https://zhiqlin.github.io/'>SecLab</a>. A Ph.D. student in Computer Science. The Ohio State University, Columbus, OH, USA.
 
 profile:
   align: right
