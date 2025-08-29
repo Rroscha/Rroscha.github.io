@@ -21,12 +21,19 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D.
+      institution: The Ohio State University, Columbus, OH, USA
+      year: 2025-Present
+      description:
+        - In the major of Computer Science.
+        - Research interests include Software Security, Software Engineering, Binary Analysis, LLMs, etc.
+
     - title: Master Degree
       institution: ShanghaiTech University, Shanghai, China
       year: 2022-2025
       description:
         - In the major of Computer Science.
-        - Research interests include Software Engineering, Program Analysis, Malware Detection, LLMs, etc.
+        - Research experience include Software Engineering, Program Analysis, Malware Detection, LLMs, etc.
 
 - title: Services
   type: time_table
