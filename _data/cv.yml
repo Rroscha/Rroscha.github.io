@@ -35,7 +35,7 @@
         - In the major of Computer Science.
         - Research experience include Software Engineering, Program Analysis, Malware Detection, LLMs, etc.
 
-- title: Services
+- title: Conference Technical Program Committee
   type: time_table
   contents:
     - year: 2025
@@ -52,6 +52,11 @@
       items: 
         - Program Committee, International Conference on Software Engineering & Knowledge Engineering (SEKE 2023)
 
+- title: Journal Referee
+  type: map
+  contents:
+    - name: Invited Reviewer
+      value: IEEE Transactions on Software Engineering (TSE)
 
 - title: Honors and Awards
   type: time_table
